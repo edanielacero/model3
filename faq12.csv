@@ -1,0 +1,149 @@
+pregunta,pregunta_normalizada,intención,categoria,respuesta
+¿Cómo puedo activar mi hosting que compré en Hotmart?,cómo puedo activar mi hosting que compré en hotmart,activar hosting,Activación,"Con mucho gusto te colaboramos.
+
+Una vez se aprobó tu compra en hotmart, recibes de inmediato un email con el asunto: ""Instrucciones para Activar tu plan de Hosting - HP"" de parte de nuestro email: clientes@koryfi.com.
+Por favor revisa la bandeja de entrada y en la carpeta de Spam.
+
+Es necesario que sigas las indicaciones que te enviamos en ese email para que puedas registrarte y activar el servicio de hosting.
+
+Durante ese proceso de activación, no debes abrir otras secciones o planes ni eliminar lo que el sistema añade al carrito de compras de manera automática, esto con el fin de validar y activar correctamente tu compra hecha en Hotmart.
+
+En caso de que en el resumen de la compra no aparezca el servicio de hosting, por favor inicia nuevamente el proceso abriendo el mensaje que te enviamos con las instrucciones e ingresando en el enlace para realizar la activación del hosting.
+
+Si necesitas comprar un dominio en otro proveedor, al momento de activar el hosting debes marcar la 3ra opción y recuerda apuntar el dominio a nuestros nameservers para que funcionen con el hosting."
+¿Cómo puedo añadir un dominio adicional o subdominio?,cómo puedo añadir un dominio adicional o subdominio,Añadir dominio adicional o subdominio,Dominio,"En la nueva interfaz de cPanel ya no está la opción directa de dominios adicionales ni subdominios. Ahora todo está dentro la opción de ""Dominios"".
+
+Al momento de añadir un dominio adicional, debes desmarcar una casilla que está marcada y que dice ""Share document root""
+
+Te comparto el tutorial para agregar los dominios adicionales y subdominios en la nueva interfaz de cpanel: https://youtu.be/RfafNHo0mck"
+¿Por qué me estan cobrando un monto extra excesivo en mi dominio vencido?,por qué me estan cobrando un monto extra excesivo en mi dominio vencido,Cobro extra por Penalidad Periodo Redención,Dominio,"El incremento que actualiza el recibo corresponde a una penalidad que impone el registrador de dominios ya que se acerca a los 30 días de no renovarse el dominio luego de su fecha de vencimiento.
+
+Si aún lo necesitas renovar y aún no cumple los 30 días desde el vencimiento, podemos retirar la penalidad que impone el registrador para que puedas renovar el dominio a precio normal."
+"¿Por qué no puedo verificar mi dominio en Facebook ni en mi Business Manager, me sale error?",por qué no puedo verificar mi dominio en facebook ni en mi business manager me sale error,Verificar dominio en Facebook o Business Manager,Dominio,"Lastimosamente no es un error que depende de nosotros y no tenemos cómo poderte ayudar, ya que el mensaje del error sucede en facebook e indica que otra persona ya lo había usado.
+
+Es decir, lo que te indica es que un anterior dueño de ese dominio lo había añadido a su business manager, luego no renovó el dominio lo que permitió que tú lo pudieras comprar, pero ese antiguo dueño no lo eliminó de su business manager, así que ese dominio quedó verificado en otro negocio/empresa dentro de facebook.
+
+Te podemos recomendar dos cosas:
+
+1. Solicitar a soporte de facebook que retire ese dominio del antiguo business manager indicando que el dominio ahora te pertenece y tienes forma de verificarlo y necesitas añadirlo a tu propio Business Manager.
+
+2. En caso de que facebook no te ayude, tendrás que comprar y usar un dominio diferente.
+
+**Antes de comprar otro te recomendamos hacer ese paso a paso de verificación en tu business manager para confirmar que facebook/Meta te permita añadir el nuevo dominio.
+
+Luego nos confirmas el nuevo dominio y te ayudamos a añadirlo o cambiarlo en el hosting.**"
+"¿Por qué no puedo ingresar a mi página web, no abre mi dominio, me sale falta de verificación y es un dominio recién comprado? ",por qué no puedo ingresar a mi página web no abre mi dominio me sale falta de verificación y es un dominio recién comprado,Verificar dominio por la ICANN,Dominio,"Estamos revisando y tu dominio fue suspendido temporalmente por falta de una verificación que debes realizar.
+
+La ICANN puede solicitar una validación del titular del dominio.
+
+Debes buscar y abrir el mensaje que tiene como asunto ""IMMEDIATE VERIFICATION required for"" y que es enviado desde la dirección: donotreply@name-services.com, luego debes hacer clic en el enlace que está dentro.
+No debes ingresar ninguna otra información. 
+
+La reactivación puede tomar algunos minutos."
+¿Puedo solicitar un reembolso de mi dominio?,puedo solicitar un reembolso de mi dominio,Solicitud Reembolso de Dominio,Dominio,"Lo lamentamos, el tiempo que ofrecemos para reembolsos es únicamente sobre los planes de Hosting.
+
+Nuestro registrador de dominios no maneja un período de tiempo para reembolsos en nuevos registros o renovaciones de dominios. Por lo tanto no podemos eliminar nombres de dominio no deseados.
+
+Una vez que se hace clic en el botón de finalizar compra, el cliente indica que ha autorizado el cobro y acepta comprar los artículos del carrito de compras.
+No se ofrecen reembolsos en dominios después de que se complete el registro o la renovación.
+
+Esto incluye registros fraudulentos, faltas de ortografía o simplemente cambiar de opinión.
+
+Debes verificar la ortografía y en caso de ser afiliado o productor de infoproductos, validar previamente en Facebook que el dominio que vayas a comprar se pueda añadir en tu business manager, además de verificar la cantidad de años en los nuevos registros y renovaciones una vez esté el dominio en el carrito y nuevamente en la página siguiente antes de la compra. Esto puede ayudar a evitar registros de dominio no deseados."
+"¿Cómo puedo usar un dominio externo como principal, compré el dominio en otro lado?",cómo puedo usar un dominio externo como principal compré el dominio en otro lado,Usar Dominio Externo como Principal,Dominio,"Con mucho gusto te colaboramos.
+
+Para poder usar un dominio de otro proveedor con nuestro hosting debes indicarle al dominio que apunte al hosting y para eso lo haces cambiando los nameservers por los nuestros en tu proveedor de dominios (deben ir los 3):
+
+ns.koryfiserver.com
+ns.koryfiserver.org
+ns.koryfiserver.net
+
+Espera algunos minutos a que tu proveedor de dominios propague los cambios y luego a que el sistema instale el certificado SSL, y ya estará listo para su uso."
+"¿Cómo puedo usar un dominio externo como adicional, compré el dominio en otro lado?",cómo puedo usar un dominio externo como adicional compré el dominio en otro lado,Usar dominio externo como adicional,Dominio,"Para poder usar un dominio de otro proveedor con nuestro hosting debes seguir 2 pasos:
+
+El primer paso es indicarle al dominio que debe apuntar al hosting y para eso lo haces cambiando los nameservers por los nuestros en tu proveedor de dominios (deben ir los 3):
+
+ns.koryfiserver.com
+ns.koryfiserver.org
+ns.koryfiserver.net
+
+Espera algunos minutos a que tu proveedor de dominios propague los cambios.
+
+Luego el segundo paso es indicarle al hosting que debe trabajar con ese dominio. Debes ingresar a cPanel e ir a la sección de dominios y dar clic en el botón para añadir un nuevo dominio.
+Escribes el nombre del dominio y nuevamente das clic en el botón para terminar de añadirlo.
+
+Finalmente espera algunos minutos a que el sistema instale el certificado SSL, y ya estará listo para su uso.
+
+Aquí te dejo un tutorial sobre cómo hacerlo: https://youtu.be/RfafNHo0mck"
+¿Por qué mi dominio o hosting que acabo de comprar dice fraude?,por qué mi dominio o hosting que acabo de comprar dice fraude,Compra de dominio en Estado de Fraude,Fraude,"Lamentamos lo sucedido. El sistema puede marcar un pedido como fraude por varias razones, una de ellas es el uso de VPN o proxy, o también por que algunos datos del pedido o del perfil no concuerdan con la conexión de internet, entre otros aspectos.
+
+Para solucionar el inconveniente puedes abrir un ticket de soporte en este siguiente enlace: https://clientes.koryfi.com/submitticket.php?step=2&deptid=1"
+¿Cómo puedo comprar certificados SSL?,como puedo comprar certificados ssl,Compra de Certificado SSL,SSL,"Puedes adquirirlo con nosotros, manejamos un certificado básico por $19.60 USD/año para 1 dominio o subdominio.
+O también manejamos otro tipo de certificado que funciona para múltiples subdominios al tiempo por valor de $160.72 USD/año.
+
+Ten presente que no es del todo necesario la compra del certificado, el público que se ve afectado es mínimo ya que la mayoría podrá acceder a tu sitio web sin problemas con el SSL gratuito, la compra se justifica si realmente quieres llegar a un % mayor (Nunca se garantiza el 100%) o tu propio dispositivo tiene problemas para validar el SSL gratuito.
+
+Podemos abrir la orden de compra por ti, o puedes ingresar para comprarlo desde: 
+
+- 1 Dominio o subdominio: https://clientes.koryfi.com/store/ssl-certificates/go/dv
+- Múltiples subdominios: https://clientes.koryfi.com/store/ssl-certificates/go/wildcard
+"
+¿Por qué mi sitio web aparece como no seguro? ¿Creo que no tengo mi SSL Activo?,por qué mi sitio web aparece como no seguro creo que no tengo mi ssl activo,SSL sin instalar o activar,SSL,"Los certificados SSL se instalan automáticamente al cabo de algunos minutos de activarse el servicio o de vincularse el dominio (El dominio debe apuntar al servidor).
+
+Recuerda que lo puedes validar ingresando al dominio incluyendo al inicio: https://  (Ejemplo: ** https:// ** koryfi.com)
+
+En caso de aún no activarse automáticamente, encuentras la opción para hacerlo en la sección de seguridad:
+
+Cpanel -> Sección Seguridad -> Clic en la Opción SSL/TLS Status -> Clic en Run AutoSSL -> Tomará algunos minutos en activarse.
+
+
+Luego de hacer esto, ingresas a Wordpress y activas el plugin Really SSL para encender la redirección SSL
+"
+¿cuáles son los nameservers?,cuales son los nameservers,Nameservers,Nameservers,"Nuestros nameservers son los siguientes (deben ir los 3):
+
+ns.koryfiserver.com
+ns.koryfiserver.org
+ns.koryfiserver.net"
+¿Por qué me sale un error al querer guardar en DIVI?,por que me sale un error al querer guardar en divi,error al guardar en DIVI,DIVI,"El error al momento de guardar cambios puede originarse por diferentes motivos, entre lo más común es que haya caducado tu sesión/cookies de Wordpress, y lo que debes hacer en caso de que sea eso es cerrar la sesión de wordpress, borrar caché / temporales del navegador y volver a ingresar iniciando sesión en tu Wordpress. También con solo recargar la página puede ser suficiente.
+
+Si el error persiste, otro motivo es por algún error de contenido. Por ejemplo un código script incompleto o no compatible, a veces un simple emoji puede ser el causante, entre otras cosas. Para este caso se debe identificar la parte del contenido o el elemento que lo causa y corregirlo o eliminarlo.
+
+Puedes revisar la modificación más reciente que hayas realizado en el contenido de la página. probar eliminar los emojis, revisar los scripts que tengan sus etiquetas de cierre como:  /> o } o ;  etc."
+¿Por qué no puedo usar las plantillas de DIVI? ¿Necesito una licencia? ¿No viene incluido?,por qué no puedo usar las plantillas de divi necesito una licencia no viene incluido,licencia en divi,DIVI,"Lo lamentamos, se incluye la instalación del constructor DIVI pero la licencia no la incluimos y en caso de que la necesites, se debe comprar aparte.
+
+El constructor que se instala es original y 100% funcional para elaborar las páginas e importar diseños/archivos JSON, pero si necesitas usar una plantilla prediseñada que ofrece Elegant Themes (DIVI) o actualizar la versión de DIVI (Desde Octubre 2023 no es necesario actualizar), sí necesitarás tener una licencia.
+
+La licencia la puedes adquirir solicitándola en la comunidad de marketing en la que hagas parte o comprándola desde el siguiente enlace: https://koryfi.com/divi
+"
+¿Por qué no puedo completar mi pago desde Argentina?,por qué no puedo completar mi pago desde argentina,error pago desde Argentina,Pagos,"Lamentamos lo sucedido.
+
+Las transacciones provenientes desde Argentina a través de nuestra pasarela de pagos ePayco pueden presentar rechazos en la mayoría de los casos debido a unas restricciones que aplican los bancos, las franquicias de tarjetas, la red de procesamiento o el Banco Central de Argentina.
+
+En general lo que hacen nuestros clientes de Argentina,  es validar con sus bancos o franquicias y comentar que realizarán una transacción internacional en dólares en el comercio ePayco/Payco o Paypal para que les autoricen, pero no te podemos garantizar que esto funcione ya que no depende de nosotros.
+
+Además de ePayco, puedes hacer uso de Paypal (Se escoge al abrir el recibo desde el área de clientes) o tarjetas que tienen del exterior como la tarjeta Payoneer. También hemos visto casos en que algunas transacciones se aprueban más fácil al usar la franquicia de American Express o Ualá.
+
+Las recomendaciones generales es usar los datos que el tarjetahabiente tiene inscrito en el banco, comunicarse con el banco para permitir la transacción y evitar el uso de una VPN."
+¿Por qué no puedo finalizar mi compra al pagar por epayco?,por qué no puedo finalizar mi compra al pagar por epayco,error pago epayco 400 y 414,Pagos,"Lamentamos lo sucedido. Hemos observado que en algunas transacciones sucede este error en ePayco.
+
+Puedes probar desde otro navegador o red de internet y validar nuevamente. Recuerda que no se debe usar un VPN o proxy. Al igual que puedes probar con una tarjeta que no requiera de la autenticación #D Security de VISA.
+
+Por otro lado, dentro de las opciones de pago puedes seleccionar Paypal desde la página del recibo.
+
+En caso de no contar con Paypal, Por el momento te podemos compartir los siguientes enlaces como opciones alternas para que puedas realizar tu pago. Uno corresponde al mismo ePayco pero en modo de pago abierto y directo y otro enlace es desde la pasarela Wompi. 
+
+Por favor debes escribir el valor completo a pagar sea dólar o pesos colombianos (seleccionando la moneda correcta) según se le indica en el recibo de pago para que pueda ser aplicado en sistema, pagos parciales no podrán ser aplicados.
+
+Al ingresar en los siguientes enlaces, por favor dónde dice ""Referencia y/o Factura"" o ""# de Recibo de Koryfi"" cambiarlo por el # de tu recibo que aparece en el área de clientes del que vas a realizar el pago.
+
+Una vez realices el pago, por favor nos envías el comprobante a pagos@koryfi.com y para agilizar con copia a clientes@koryfi.com
+
+
+1. Enlace de pago abierto de Epayco:
+
+https://secure.payco.co/checkoutopen/55196
+
+
+2. Enlace de pago abierto de Wompi (Solo en Pesos Colombianos):
+
+https://checkout.wompi.co/l/R0x2PG"
